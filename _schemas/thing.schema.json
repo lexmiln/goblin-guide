@@ -9,6 +9,10 @@
         "name": {
             "type": "string"
         },
+        "chapter": {
+            "type": "number",
+            "description": "The chapter in which the character is introduced, especially when they are named. In some cases (such as Maia's funeral-carer) a character is alluded to in a chapter but we don't yet know who they are. In other cases, a a character is present but hasn't been named, in which case we don't want to show their name ahead of time."
+        },
         "aliases": {
             "type": "array",
             "items": {

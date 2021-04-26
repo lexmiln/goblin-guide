@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Ebreneän Clunetharan (dec.)
+aliases:
+  - chapter: 1
+    name: Archduchess Ebreneän
+bits:
+  - chapter: 0
+    text: "From the prologue: sister of Varenechibel IV"
+  - chapter: 1
+    text: "Ebreneän died more than two years prior to the events of Chapter One, the occasion of her death was the most recent time before the beginning of the story that Maia dressed in formal mourning."

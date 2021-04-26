@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: ???
+chapter: .inf
+aliases:
+  - chapter: 2
+    name: A Minor Noble's Wife
+bits:
+  - chapter: 2
+    text: "Cared for Maia at his mother's funeral, pointing out Maia's brothers, who he had never met."

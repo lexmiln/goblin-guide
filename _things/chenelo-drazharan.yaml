@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Chenelo Drazharan (dec.)
+aliases:
+  - chapter: 2
+    name: The Empress Chenelo
+bits:
+  - chapter: 0
+    text: "From the prologue: second legitimate daughter of Maru Sevraseched, the Great Avar of Barizhan; fourth wife of Varenechibel IV; mother of Maia Drazhar; relegated to Isvaroë by Varenechibel IV, where she died"
+  - chapter: 2
+    text: "Maia's mother, Chenelo Drazharan, died when Maia was eight years old."
