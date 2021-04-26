@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Uleris Chavar
+aliases:
+  - chapter: 0
+    name: Lord Chancellor of the Ethuveraz
+bits:
+  - chapter: 0
+    text: "From the prologue: Lord Chancellor of the Ethuveraz"
+  - chapter: 1
+    text: The Lord Chancellor sent Witnessess to investigate the crash of the Wisdom of Choharo.
+  - chapter: 1
+    text: Ordered arrangements put in train for a full ceremonial funeral on the twenty-third instant, in three days' time following the events of Chapter One. Also notified the five principalities and Maia's "sister in Ashedro" (Vedero?).

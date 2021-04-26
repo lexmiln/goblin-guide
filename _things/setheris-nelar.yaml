@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Setheris Nelar
+bits:
+  - chapter: 0
+    text: "From the prologue: relegated to Edonomee with Maia Drazhar by Varenechibel IV"
+  - chapter: 1
+    text: "Setheris lives an austere life in Edonomee. He warns Maia that the Untheileneise Court will be hostile to him, and that Uleris Chavar in particular intends to entrench himself and assert control over Maia."
+  - chapter: 1
+    text: "Setheris states that he and Uleris Chavar were enemies for many years."

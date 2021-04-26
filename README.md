@@ -1,3 +1,9 @@
+# The Goblin Emperor
+
+https://www.google.co.uk/books/edition/The_Goblin_Emperor/6laGDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+
+# This Project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

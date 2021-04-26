@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Nemera Drazhar (dec.)
+aliases:
+  - chapter: 0
+    name: Varenechibel IV
+  - chapter: 0
+    name: Varenechibel Zhas
+bits:
+  - chapter: 0
+    text: "From the prologue: the 208th Emperor of the Elflands, son of Varevesena, husband, in sequence, of Arbelan Drazharan, Leshan Drazharan, Pazhiro Drazharan, Chenelo Drazharan, Csoru Drazharan; father of Nemolis Drazhar, Nemriän Imaran, Nazhira Drazhar, Ciris Drazhar, Vedero Drazhin, Maia Drazhar; killed in the crash of the Wisdom of Choharo"
+  - chapter: 1
+    text: Died when the Wisdom of Choharo crashed between sunrise and noon on the day before the events of Chapter One. The Wisdom of Choharo was returning from the wedding of the Prince of Thu-Athamar.
