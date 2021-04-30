@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: "???"
+aliases:
+  - chapter: 3
+    name: The Adremaza
+bits:
+  - chapter: 0
+    text: "From the prologue: the master of the Athmaz'are (the institution of the mazei of the Ethuveraz)"
+  - chapter: 3
+    text: "Setheris speaks to the Adremaza in order to request a nohecharis for Maia."

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Csoru Drazharan
+aliases:
+  - chapter: 3
+    name: Ethuverazhid Zhasanai
+  - chapter: 3
+    name: The Widow Empress
+bits:
+  - chapter: 0
+    text: "From the prologue: fifth wife of Varenechibel IV; kinswoman to Thara Celehar"
+  - chapter: 3
+    text: "Csoru sends a message by courier that reaches Maia soon after his arrival in the Untheileneise Court, demanding to recieve Maia to discuss her late husband's wishes at two o'clock in the afternoon on the same day. Maia's reply instead offers her an audience the following day at ten o'clock in the morning."

@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Cala Athmaza
+aliases:
+  - chapter: 3
+    name: First Nohecharis to Edrehasivar VII
+bits:
+  - chapter: 0
+    text: "From the prologue: first nohecharis to Edrehasivar VII"
+  - chapter: 3
+    text: Tall, "as gawky as a newborn colt", with pale blue eyes behind thick round-lensed spectacles.

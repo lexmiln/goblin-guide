@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: "???"
+aliases:
+  - chapter: 3
+    name: Captain of the Untheileneise Guard
+bits:
+  - chapter: 3
+    text: "Setheris speaks to the Captain of the Untheileneise Guard in order to request a nohecharis for Maia."

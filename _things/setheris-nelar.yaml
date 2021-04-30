@@ -5,7 +5,7 @@ bits:
   - chapter: 0
     text: "From the prologue: relegated to Edonomee with Maia Drazhar by Varenechibel IV"
   - chapter: 1
-    text: "Setheris lives an austere life in Edonomee. He warns Maia that the Untheileneise Court will be hostile to him, and that Uleris Chavar in particular intends to entrench himself and assert control over Maia."
+    text: "Setheris, Maia's cousin, lives an austere life in Edonomee. He warns Maia that the Untheileneise Court will be hostile to him, and that Uleris Chavar in particular intends to entrench himself and assert control over Maia."
   - chapter: 1
     text: "Setheris states that he and Uleris Chavar were enemies for many years."
   - chapter: 2
@@ -16,4 +16,5 @@ bits:
     text: "Setheris knocked Maia into a wrought-iron adornment in Maia's fifteenth winter, causing permanent scarring to Maia's left forearm."
   - chapter: 2
     text: "Maia does not know what Setheris did to earn Varenechibel IV's emnity."
-  -
+  - chapter: 3
+    text: "Hesero Nelaran, Setheris' wife, has been living at the Untheileneise Court while he has been relegated to Edonomee."

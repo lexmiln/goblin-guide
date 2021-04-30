@@ -2,14 +2,16 @@
 ---
 name: Maia Drazhar
 aliases:
-  - chapter: .inf
-    name: Edrehasivar VII
-  - chapter: .inf
-    name: Edrehasivar Zhas
   - chapter: 1
     name: Archduke Maia Drazhar
   - chapter: 1
     name: Heir to the imperial throne of Ethuveraz
+  - chapter: 3
+    name: Edrehasivar VII
+  - chapter: .inf
+    name: Edrehasivar Zhas
+  - chapter: .inf
+    name: Emperor of the Elflands
 bits:
   - chapter: 0
     text: "From the prologue: only child of Chenelo Drazharan and Varenechibel IV (fourth son of the emperor); relegated by his farther first to Isvaroë (with Chenelo Drazharan) and then to Edonomee (with Setheris Nelar); see also Edrehasivar VII."
@@ -25,3 +27,5 @@ bits:
     text: "Maia's mother, Chenelo Drazharan, died when Maia was eight years old."
   - chapter: 2
     text: "Setheris knocked Maia into a wrought-iron adornment in Maia's fifteenth winter, causing permanent scarring to Maia's left forearm."
+  - chapter: 3
+    text: "Maia chooses Edrehasivar VII as his dynastic name, succeeding Edrehasivar VI who had a long, peaceful and prosperous reign some five hundred years ago."

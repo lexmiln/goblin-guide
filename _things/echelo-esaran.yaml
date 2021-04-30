@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Echelo Esaran
+aliases:
+  - chapter: 0
+    name: Steward of the Alcethmeret
+bits:
+  - chapter: 0
+    text: "From the prologue: steward of the Alcethmeret"
+  - chapter: 3
+    text: "Maia requests to see the house steward immediately after his arrival to the Alcethmeret. She is a woman in her mid-forties. Maia apologises for inconveniencing the household, Echelo is stiff and precise."
