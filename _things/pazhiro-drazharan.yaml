@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Pazhiro Drazharan (dec.)
+slug: pazhiro-drazharan
+aliases:
+  - chapter: 4
+    name: The Empress Pazhiro
+bits:
+  - chapter: 0
+    text: "From the prologue: third wife of Varenechibel IV; mother of Nazhira Drazhar, Ciris Drazhar, and Vedero Drazhin; died in childbirth."
+  - chapter: 4
+    text: Varenechibel IV married Chenelo while still mourning his third wife, the Empress Pazhiro, who had died five years previously.
