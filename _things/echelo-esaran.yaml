@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Echelo Esaran
+slug: echelo-esaran
 aliases:
   - chapter: 0
     name: Steward of the Alcethmeret

@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Uleris Chavar
+slug: uleris-chavar
 aliases:
   - chapter: 0
     name: Lord Chancellor of the Ethuveraz

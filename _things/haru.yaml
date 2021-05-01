@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Haru
+slug: haru
 bits:
   - chapter: 0
     text: "From the prologue: servant at Edonomee"

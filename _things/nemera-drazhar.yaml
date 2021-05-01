@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Nemera Drazhar (dec.)
+slug: nemera-drazhar
 aliases:
   - chapter: 0
     name: The Emperor Varenechibel IV

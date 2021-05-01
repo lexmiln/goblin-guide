@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Cala Athmaza
+slug: cala-athmaza
 aliases:
   - chapter: 3
     name: First Nohecharis to Edrehasivar VII

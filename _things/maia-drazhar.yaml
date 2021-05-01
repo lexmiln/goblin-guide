@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Maia Drazhar
+slug: maia-drazhar
 aliases:
   - chapter: 1
     name: Archduke Maia Drazhar
@@ -29,3 +30,5 @@ bits:
     text: "Setheris knocked Maia into a wrought-iron adornment in Maia's fifteenth winter, causing permanent scarring to Maia's left forearm."
   - chapter: 3
     text: "Maia chooses Edrehasivar VII as his dynastic name, succeeding Edrehasivar VI who had a long, peaceful and prosperous reign some five hundred years ago."
+  - chapter: 4
+    text: Chenelo concieved Maia on her wedding night. Soon after giving birth to Maia, Varenechibel IV relegated her and Maia to Isvaroë."

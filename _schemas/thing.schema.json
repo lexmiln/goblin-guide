@@ -3,10 +3,14 @@
     "type": "object",
     "required": [
         "name",
+        "slug",
         "bits"
     ],
     "properties": {
         "name": {
+            "type": "string"
+        },
+        "slug": {
             "type": "string"
         },
         "chapter": {
@@ -24,8 +28,12 @@
                 "properties": {
                     "chapter": {
                         "type": "number"
+                    },
+                    "name": {
+                        "type": "string"
                     }
-                }
+                },
+                "additionalProperties": false
             }
         },
         "bits": {
@@ -38,8 +46,12 @@
                 "properties": {
                     "chapter": {
                         "type": "number"
+                    },
+                    "text": {
+                        "type": "string"
                     }
-                }
+                },
+                "additionalProperties": false
             }
         }
     },

@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Setheris Nelar
+slug: setheris-nelar
 bits:
   - chapter: 0
     text: "From the prologue: relegated to Edonomee with Maia Drazhar by Varenechibel IV"

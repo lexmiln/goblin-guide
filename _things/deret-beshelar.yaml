@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Deret Beshelar
+slug: deret-beshelar
 aliases:
   - chapter: 3
     name: Lieutenant of the Untheileneise Guard

@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Csevet Aisava
+slug: csevet-aisava
 chapter: 3
 aliases:
   - chapter: 1

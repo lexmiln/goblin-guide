@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
-name: Clemis-Atterezh
+name: Clemis Atterezh
+slug: clemis-atterezh
 aliases:
   - chapter: 0
     name: Master of Wardrobe

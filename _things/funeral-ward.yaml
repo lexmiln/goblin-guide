@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
-name: ???
+name: "???"
+slug: funeral-ward
 chapter: .inf
 aliases:
   - chapter: 2

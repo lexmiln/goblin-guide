@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Csoru Drazharan
+slug: csoru-drazharan
 aliases:
   - chapter: 3
     name: Ethuverazhid Zhasanai

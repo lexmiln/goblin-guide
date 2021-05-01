@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Ciris Drazhar (dec.)
+slug: ciris-drazhar
 aliases:
   - chapter: 1
     name: Archduke Ciris Drazhar

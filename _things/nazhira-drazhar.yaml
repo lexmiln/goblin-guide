@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Nazhira Drazhar (dec.)
+slug: nazhira-drazhar
 aliases:
   - chapter: 1
     name: Archduke Nazhira Drazhar

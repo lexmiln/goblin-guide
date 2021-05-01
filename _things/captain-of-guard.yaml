@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: "???"
+slug: guard-captain
 aliases:
   - chapter: 3
     name: Captain of the Untheileneise Guard

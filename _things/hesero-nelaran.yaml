@@ -1,6 +1,7 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
 name: Hesero Nelaran
+slug: hesero-nelaran
 aliases:
   - chapter: 3
     name: Osmerrem Nelaran
