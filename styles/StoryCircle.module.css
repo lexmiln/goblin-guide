@@ -1,0 +1,25 @@
+.circleholder {
+  position: fixed;
+  bottom: -10px;
+  right: -20px;
+}
+
+.storycircle {
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 50px;
+  background-color: #fff;
+  box-shadow: 2px 2px 10px #bbb;
+}
+
+.readinglabel {
+  position: absolute;
+}
+
+.chapternumber {
+  font-size: 50px;
+  height: 100px;
+  line-height: 90px;
+  text-align: center;
+}

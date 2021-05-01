@@ -1,22 +1,43 @@
 import { GetStaticPaths, GetStaticProps } from "next";
+import Link from "next/link";
+import ChapterMarker from "../../components/ChapterMarker";
+import StoryCircle from "../../components/StoryCircle";
 import { getThingBySlug, getThingSlugs } from "../../lib/data";
 import styles from "../../styles/Thing.module.css";
+import { ThingSchema } from "../../types/thing.schema";
 
-export default function Thing(props: { [key: string]: any }) {
+type Props = {
+  thing: ThingSchema;
+};
+
+export default function ThingPage(props: Props) {
   return (
-    <div className={styles.container}>
-      <h1>Hello world.</h1>
-      <p>The foo value is {props.foo}</p>
-      <p>Name is {props.name}</p>
-    </div>
+    <>
+      <Link href="/things">← Everyone</Link>
+      <h1>{props.thing.name}</h1>
+      <ul className={styles.aliases}>
+        {props.thing.aliases?.map((alias, i) => (
+          <li key={i}>{alias.name}</li>
+        ))}
+      </ul>
+      {props.thing.bits.map((bit, i) => (
+        <div key={i} className={styles.bit}>
+          {bit.text}
+          <ChapterMarker chapter={bit.chapter} />
+        </div>
+      ))}
+      <StoryCircle />
+    </>
   );
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const data = getThingBySlug(params!.slug as string);
+  const thing = getThingBySlug(params!.slug as string);
 
   return {
-    props: data,
+    props: {
+      thing: thing,
+    },
   };
 };
 

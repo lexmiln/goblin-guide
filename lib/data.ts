@@ -1,28 +1,38 @@
 import fs from "fs";
+import yaml from "js-yaml";
 import { join } from "path";
+import { ThingSchema } from "../types/thing.schema";
 
 const thingsDirectory = join(process.cwd(), "_things");
 
-export function getThingBySlug(slug: string) {
+export function getThingBySlug(slug: string): ThingSchema | null {
   if (!slug.match(/[-A-Za-z]+/)) {
     return null;
   }
 
-  const fullPath = join(thingsDirectory, `${slug}.json`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-
-  return JSON.parse(fileContents);
+  return getAllThings()[slug] || null;
 }
 
 export function getThingSlugs(): string[] {
-  const slugs = fs.readdirSync(thingsDirectory);
-  return slugs
-    .filter((slug) => slug.endsWith(".json"))
-    .map((slug) => slug.replace(/\.json/, ""));
+  return Object.keys(getAllThings());
 }
 
-export function getAllThings() {
-  const slugs = getThingSlugs();
-  const things = slugs.map((slug) => getThingBySlug(slug));
+function isThing(t: ThingSchema | null): t is ThingSchema {
+  return t !== null;
+}
+
+export function getAllThings(): { [key: string]: ThingSchema } {
+  const filenames = fs.readdirSync(thingsDirectory);
+  const allThings = filenames
+    .filter((filename) => filename.endsWith(".yaml"))
+    .map((filename) => join(thingsDirectory, filename))
+    .map((fullPath) => fs.readFileSync(fullPath, "utf8"))
+    .map((fileContents) => yaml.load(fileContents) as ThingSchema);
+
+  const things: { [key: string]: ThingSchema } = {};
+  allThings.forEach((thing) => {
+    things[thing.slug] = thing;
+  });
+
   return things;
 }
