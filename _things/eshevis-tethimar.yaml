@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Eshevis Tethimar
+slug: eshevis-tethimar
+aliases:
+  - chapter: 5
+    name: Dach'osmer Tethimar
+  - chapter: 5
+    name: Heir of the Duke Tethimel
+bits:
+  - chapter: 0
+    text: "From the prologue: son of the Duke Tethimel."
+  - chapter: 5
+    text: "On his first day in the Alcethmeret, Maia recieves a circumspect letter from Eshevis Tethimar. Csevet guesses that Eshevis Tethimar is a suitor for the hand of the Archduchess Vedero, however, his letter doesn't mention Vedero on account of Varenechibel IV's insistence that there be no public discussion of betrothal until Vedero's ceremony of signing. This insistance was as result of the furor about the Archduchess Nemriän's marriage, which took place when Maia was five. No details of that furor are given."
+  - chapter: 5
+    text: "Csevet infers that Eshevis' letter is intended to discover how much Maia knows about Vedero's betrothal."
+  - chapter: 5
+    text: "The Tethimada are powerful and lead the faction of the eastern lords who are most opposed to the expension of industry in the west. Csevet understands that Varenechibel considered marrying Vedero Drazhin to Eshevis Tethimar as a compromise."
+  - chapter: 5
+    text: "Maia consents to have Csevet respond to Tethimar's letter in just as circumspect a fashion, so as to reveal no information to him."

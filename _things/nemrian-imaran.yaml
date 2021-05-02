@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Nemriän Imaran
+slug: nemrian-imaran
+aliases:
+  - chapter: 5
+    name: The Archduchess Nemriän
+bits:
+  - chapter: 0
+    text: "From the prologue: daughter of Varenechibel IV and Leshan Drazharan; wife of the Marquess Imel"
+  - chapter: 5
+    text: "On his first day in the Alcethmeret, Maia recieves a circumspect letter from Eshevis Tethimar. Csevet guesses that Eshevis Tethimar is a suitor for the hand of the Archduchess Vedero, however, his letter doesn't mention Vedero on account of Varenechibel IV's insistence that there be no public discussion of betrothal until Vedero's ceremony of signing. This insistance was as result of the furor about the Archduchess Nemriän's marriage, which took place when Maia was five. No details of that furor are given."
