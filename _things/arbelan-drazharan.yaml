@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Csoru Drazharan
+slug: csoru-drazharan
+aliases:
+  - chapter: 6
+    name: First wife of Varenechibel IV
+  - chapter: 6
+    name: The Empress Arbelan
+bits:
+  - chapter: 0
+    text: "From the prologue: first wife of Varenechibel IV; put aside for barrenness and relegated to Cethoree."
+  - chapter: 6
+    text: Having threatened to relegate Csoru Drazharan, Maia recalls that Arbelan was relegated and asks Csevet to invite her to attend his coronation.

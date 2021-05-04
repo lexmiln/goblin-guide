@@ -9,9 +9,14 @@ aliases:
   - chapter: 3
     name: Secretary to Edrehasivar VII
 bits:
+  - chapter: 0
+    spoiler: 3
+    text: "From the prologue: a courier; later Edrehasivar VII's secretary"
   - chapter: 1
     text: "Delivers the letter that informs Maia of the death of his father and brothers."
   - chapter: 3
     text: "When Maia asks, the messenger identifies themself as Csevet Aisava."
   - chapter: 3
     text: "Maia asks Csevet to organize his household, effectively making Csevet his secretary."
+  - chapter: 6
+    text: "Csevet had been an imperial courier since he was thirteen years old."

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Vorzhis Gormened
+slug: ambassador
+aliases:
+  - chapter: 6
+    name: Barizheise Ambassador to the Untheileneise Court
+    reveal: during
+  - chapter: 6
+    name: Ambassador of the Great Avar
+bits:
+  - chapter: 0
+    text: "From the prologue: Barizheise ambassador to the Untheileneise Court; husband of Nadaro Gormened."
+  - chapter: 6
+    text: "Maia recieves a letter from the Barizheise ambassador. The letter is rolled vellum, held with a cord of plum-colored silk, threaded through an ivory toggle and elaborately knotted."
+  - chapter: 6
+    text: Oshet identifies the Ambassador's letter's ivory toggle as a _nesecho_ bearing a carving of a suncat. He says the meaning of the carving is "good luck", "friends" and "wish for great happiness". The _nesecho_ is a gift, meant to be kept.
+  - chapter: 6
+    text: The ambassador's letter expresses condolences and assures that the Barizhan will not hold Maia to the trade agreement which was being negotiated with Varenechibel IV. The letter hopes for peace to become friendship.

@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Dazhis Athmaza
+slug: dazhis-athmaza
+aliases:
+  - chapter: 6
+    name: Second Nohecharis to Edrehasivar VII
+bits:
+  - chapter: 0
+    text: "From the prologue: Second Nohecharis to Edrehasivar VII."
+  - chapter: 6
+    text: "A maza, shabby and unworldly, though with a newer robe and better-braided hair than Cala Athmaza."

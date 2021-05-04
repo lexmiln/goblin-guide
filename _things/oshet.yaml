@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Oshet
+slug: oshet
+aliases:
+  - chapter: 6
+    name: Alcethmeret Gardener
+bits:
+  - chapter: 0
+    text: "From the prologue: a Barizheise gardener in the Alcethmeret."
+  - chapter: 6
+    text: "Oshet came to the Untheileneise Court with the Barizheise ambassador five years ago, his service was presented to Varenechibel IV because of his gift for rose-growing."
+  - chapter: 6
+    text: Oshet identifies the Ambassador's letter's ivory toggle as a _nesecho_ bearing a carving of a suncat. He says the meaning of the carving is "good luck", "friends" and "wish for great happiness". The _nesecho_ is a gift, meant to be kept.

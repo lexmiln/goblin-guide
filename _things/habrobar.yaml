@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Dachensol Habrobar
+slug: dachensol-habrobar
+chapter: 6
+aliases: []
+bits:
+  - chapter: 0
+    text: "From the prologue: a maker of signets"
+  - chapter: 6
+    text: Csevet tells Maia that Dachensol Habrobar has the job of designing signets, Csevet promises to "take care of it".

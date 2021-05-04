@@ -5,8 +5,13 @@ slug: clemis-atterezh
 aliases:
   - chapter: 0
     name: Master of Wardrobe
+  - chapter: 6
+    name: Dachensol Atterezh
+    reveal: during # It helps the reader to be able to search for "dachensol" in chapter six, even though this alternative title is only revealed during chapter six.
 bits:
   - chapter: 0
     text: "From the prologue: the emperor's Master of Wardrobe"
   - chapter: 3
     text: "A middle-aged man, tall and stooped, with the mild, nervous expression of a rabbit."
+  - chapter: 6
+    text: Dachensol Atterezh and his apprentices labor through Maia's first night in the Alcethmeret to produce a wardrobe him.
