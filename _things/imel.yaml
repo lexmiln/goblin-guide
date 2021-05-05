@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Imel
+slug: imel
+aliases:
+  - chapter: 0
+    name: Marquess of Thu-Athamar
+bits:
+  - chapter: 0
+    text: "From the prologue: marquess of Thu-Athamar; husband of Nemriän Imaran."
+  - chapter: 7
+    text: Chavar enters at the conclusion of Maia's dinner to explain the proceedings of the coronation. Chavar dictates that Maia should take the Marquess Imel and Setheris Nelar to the daylong meditation that precedes the coronation.

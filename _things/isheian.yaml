@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Isheian
+slug: isheian
+aliases:
+  - chapter: 7
+    name: Servant in the Alcethmeret
+bits:
+  - chapter: 0
+    text: "From the prologue: servant in the Alcethmeret."
+  - chapter: 7
+    text: Esaran is incredulous and offended when Maia insists on getting to know the staff of the Alcethmeret — Varenechibel IV made no such effort. Maia learns that the shy server in the dining room is called Isheian and the kitchen master is called Ebremis. In the gardens, Oshet winks at Maia.
+  - chapter: 7
+    text: That night at dinner, Isheian returns Maia's smile.
