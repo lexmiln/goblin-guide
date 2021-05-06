@@ -7,16 +7,17 @@ aliases:
     name: Archduke Maia Drazhar
   - chapter: 1
     name: Heir to the imperial throne of Ethuveraz
+    until: 8
   - chapter: 3
     name: Edrehasivar VII
-  - chapter: .inf
+  - chapter: 8
     name: Edrehasivar Zhas
-  - chapter: .inf
+  - chapter: 8
     name: Emperor of the Elflands
 bits:
   - chapter: 0
     text: "From the prologue: only child of Chenelo Drazharan and Varenechibel IV (fourth son of the emperor); relegated by his farther first to Isvaroë (with Chenelo Drazharan) and then to Edonomee (with Setheris Nelar); see also Edrehasivar VII."
-  - chapter: .inf
+  - chapter: 8
     text: "From the prologue: the 209th emperor of the Elflands."
   - chapter: 1
     text: "Maia confirmed the messenger's assertion that Varenechibel IV and Chenelo Drazharan had no other children than him."
@@ -36,3 +37,7 @@ bits:
     text: "Csevet points out that unless Maia would like Idra Drazhar to succeed him, Maia must consider marrying."
   - chapter: 5
     text: Cala is present and comforts Maia when he wakes from a nightmare in which Setheris tells him that his mother was in the burning wreckage of the Wisdom of Choharo.
+  - chapter: 8
+    text: Maia chooses Cala Athmaza and Deret Beshelar, his First Nohecharei, to serve as his guides to and from the vigil chapel, greatly upsetting the Lord Chancellor.
+  - chapter: 8
+    text: "At the coronation, Maia's extended family, the Drazhada, must all take their oaths: Csoru, Nemriän, Vedero, Sheveän and her three children, Stano Bazhevin and Arbelan Drazharan."

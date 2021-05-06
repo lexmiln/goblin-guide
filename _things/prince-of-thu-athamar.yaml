@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: "???"
+slug: prince-of-thu-athamar
+aliases:
+  - chapter: 8
+    name: Prince of Thu-Athamar
+bits:
+  - chapter: 0
+    text: "From the prologue: ???"
+  - chapter: 8
+    text: At Maia's coronation, the five princes give their vows, however, Maia only remembers one of them, the Prince of Thu-Athamar, whose eyes are haunted. Maia tells him, "neither blame nor guilt belongs to you, so do not hold them so closely." The prince is startled, then thoughtful.

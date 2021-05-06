@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Stano Bazhevin
+slug: stano-bazhevin
+aliases:
+  - chapter: 8
+    name: Fiancée of Archduke Ciris Drazhar
+bits:
+  - chapter: 0
+    text: "From the prologue: fiancée of Ciris Drazhar; daughter of the Count Bazhevel."
+  - chapter: 8
+    text: "At the coronation, Maia's extended family, the Drazhada, must all take their oaths: Csoru, Nemriän, Vedero, Sheveän and her three children, Stano Bazhevin and Arbelan Drazharan."
+  - chapter: 8
+    text: "Stano is frightened of Maia at her oath-taking."

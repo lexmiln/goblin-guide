@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Sheveän Drazharan
+slug: shevean-drazharan
+aliases:
+  - chapter: 0
+    name: Princess of the Untheileneise Court
+  - chapter: 8
+    name: Widow of Prince Nemolis Drazhar
+bits:
+  - chapter: 0
+    text: "From the prologue: Princess of the Untheileneise Court; wife of Nemolis Drazhar; mother of Idra Drazhar, Mireän Drazhin and Ino Drazhin."
+  - chapter: 8
+    text: "At the coronation, Maia's extended family, the Drazhada, must all take their oaths: Csoru, Nemriän, Vedero, Sheveän and her three children, Stano Bazhevin and Arbelan Drazharan."
+  - chapter: 8
+    text: "Nemriän, Csoru and Sheveän are distainful at their oath-taking."

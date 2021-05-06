@@ -1,14 +1,12 @@
 # yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
 ---
-name: "???"
-slug: guard-captain
+name: Teru Tethimar
+slug: archprelate
 aliases:
-  - chapter: 3
-    name: Captain of the Untheileneise Guard
   - chapter: 8
-    name: Prelate and Knight of Anmura
+    name: Archprelate of Cetho
 bits:
-  - chapter: 3
-    text: "Setheris speaks to the Captain of the Untheileneise Guard in order to request a nohecharis for Maia."
+  - chapter: 0
+    text: "From the prologue: the Archprelate of Cetho."
   - chapter: 8
     text: Csevet, Chavar, the Archprelate of Cetho, the Adremaza and the Captain of the Guard are waiting in the outer chamber when Maia emerges from being dressed for his coronation.

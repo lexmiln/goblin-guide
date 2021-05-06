@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Cstheio Caireizhasan (goddess)
+slug: cstheio-caireizhasan
+aliases:
+  - chapter: 0
+    name: Goddess of the stars, of wisdom, and of magic
+  - chapter: 8
+    name: Lady of the Stars
+bits:
+  - chapter: 8
+    text: Maia specifies Cstheio Caireizhasan as his augury of favor. Later, in the vigil chapel, he uses a prayer to Cstheio as a mantra.

@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=file:///Users/alex/Louise/goblin-guide/_schemas/thing.schema.json
+---
+name: Anmura (god)
+slug: anmura
+chapter: 8
+aliases:
+  - chapter: 0
+    name: God of the Sun
+  - chapter: 0
+    name: God of War
+bits:
+  - chapter: 0
+    text: "From the prologue: god of the sun and god of war."
